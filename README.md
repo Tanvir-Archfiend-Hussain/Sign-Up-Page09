@@ -1,5 +1,5 @@
 # Sign-Up-Page09
- 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Winter_bird.jpg/1280px-Winter_bird.jpg" alt="" />
 This project was designed for me to learn how to link HTML files and work with videos and CSS.
 
 - JAVASCRIPT 
